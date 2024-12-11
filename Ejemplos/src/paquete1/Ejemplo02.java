@@ -25,15 +25,15 @@ public class Ejemplo02 {
         System.out.println(arreglo1[3]);
         System.out.println(arreglo1[4]);
         
-        // arreglo de tipo double
+        // arreglo de tipo double // imprime con decimal por ser double
         double[] arreglo2 = new double[5];
         System.out.println(arreglo2[0]);
         
-        // arreglo de tipo String
+        // arreglo de tipo String // escribe "null" porqu la cadena está vacia
         String[] arreglo4 = new String[5];
         System.out.println(arreglo4[0]);
         
-        // arreglo de tipo boleano
+        // arreglo de tipo boleano // imprime falso por defecto por ser booleano
         boolean[] arreglo5 = new boolean[5];
         System.out.println(arreglo5[0]);
     }
