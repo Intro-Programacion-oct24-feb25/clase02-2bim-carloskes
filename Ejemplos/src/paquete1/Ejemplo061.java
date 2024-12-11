@@ -30,7 +30,7 @@ public class Ejemplo061 {
             dato = entrada.nextLine();
             // se asigna la variable dato a la posición del arreglo
             // de acuerdo al valor de i
-            arreglo1[i] = dato;
+            arreglo1[4] = dato;
         }
         
         // Se hace uso del ciclo repetitivo for para recorrer el arreglo
